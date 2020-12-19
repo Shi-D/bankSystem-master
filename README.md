@@ -2,7 +2,7 @@
  
 **Author: Yd Shi**
 
- ***银行管理系统***
+ ***主要功能***
 ---------------
 *	开户
 *	转账
@@ -13,7 +13,15 @@
 *	...
 
 
- ***Others***
+ ***定时任务的解决方案***
 ---------------
-*	Django
-*	LayUI
+https://github.com/kraiz/django-crontab
+
+pip install django-crontab
+
+
+ ***汇率接口解决方案***
+---------------
+https://django-money-rates.readthedocs.io/
+
+pip install django-money-rates
